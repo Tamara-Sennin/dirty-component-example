@@ -1,0 +1,19 @@
+# Idea
+.idea/*
+*.iml
+*.ipr
+*.iws
+
+# Maven
+target/
+
+# Npm
+/node_modules/
+/coverage
+/dist
+
+# macOS
+.DS_Store
+
+# secure files
+*.unencrypted
